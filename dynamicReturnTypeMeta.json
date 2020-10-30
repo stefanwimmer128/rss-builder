@@ -1,0 +1,9 @@
+{
+    "methodCalls": [
+        {
+            "class": "\\Stefanwimmer128\\RSSBuilder\\RSSElementInterface",
+            "method": "addChild",
+            "position": 0
+        }
+    ]
+}
