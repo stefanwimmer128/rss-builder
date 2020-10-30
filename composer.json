@@ -16,6 +16,7 @@
         }
     },
     "require": {
+        "php": "^7.4",
         "ext-dom": "*",
         "symfony/polyfill-php80": "^1.20"
     },
