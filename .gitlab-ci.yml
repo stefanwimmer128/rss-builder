@@ -1,5 +1,5 @@
 default:
-  image: php:7.4
+  image: php:7.4-alpine
   
   before_script:
     - apk add --no-cache libzip-dev zip
